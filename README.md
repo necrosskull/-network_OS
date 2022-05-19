@@ -27,9 +27,10 @@ Mac OS - нет</br></br>
    </colgroup>
    <thead>
       <tr>
-         <th><a href="https://github.com/necrosskull/-network_OS/tree/main/lec2/">Lec2</a></th>
+        <th><a href="https://github.com/necrosskull/-network_OS/tree/main/lec2/">Lec2</a></th>
          <th colspan="2"><a href="https://github.com/necrosskull/-network_OS/tree/main/lec3/">Lec3</a></th>
          <th colspan="3"><a href="https://github.com/necrosskull/-network_OS/tree/main/lec4/">Lec4</a></th>
+         <th><a href="https://github.com/necrosskull/-network_OS/tree/main/packages/">Packages</a></th>
       </tr>
    </thead>
    <tbody>
@@ -40,6 +41,7 @@ Mac OS - нет</br></br>
          <td><a href="https://github.com/necrosskull/-network_OS/tree/main/lec4/program4_1">program4_1</a></td>
          <td><a href="https://github.com/necrosskull/-network_OS/tree/main/lec4/program4_2">program4_2</a></td>
          <td><a href="https://github.com/necrosskull/-network_OS/tree/main/lec4/program4_3">program4_3</a></td>
-      </tr>
+        
+  
    </tbody>
 </table>
